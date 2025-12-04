@@ -1,0 +1,2 @@
+Arqivo de observações a ser ignorado pelo git
+Criando alterações para depois verificar se haverá algo para commitar
